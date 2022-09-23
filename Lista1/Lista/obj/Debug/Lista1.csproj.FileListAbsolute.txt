@@ -1,0 +1,31 @@
+C:\Users\alunos\Downloads\Documents\Larissa\Lista\Lista\obj\Debug\Lista1.csproj.AssemblyReference.cache
+C:\Users\alunos\Downloads\Documents\Larissa\Lista\Lista\obj\Debug\Lista1.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Downloads\Documents\Larissa\Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\alunos\Downloads\Documents\Larissa\Lista\Lista\bin\Debug\Lista.exe
+C:\Users\alunos\Downloads\Documents\Larissa\Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\alunos\Downloads\Documents\Larissa\Lista\Lista\obj\Debug\Lista.exe
+C:\Users\alunos\Downloads\Documents\Larissa\Lista\Lista\obj\Debug\Lista.pdb
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\Lista\bin\Debug\Lista.exe
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\Lista\obj\Debug\Lista1.csproj.AssemblyReference.cache
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\Lista\obj\Debug\Lista1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\Lista\obj\Debug\Lista1.csproj.CoreCompileInputs.cache
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\Lista\obj\Debug\Lista.exe
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\Lista\obj\Debug\Lista.pdb
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\ExerciciosDSLista\Lista\obj\Debug\Lista1.csproj.AssemblyReference.cache
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\ExerciciosDSLista\Lista\obj\Debug\Lista1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\ExerciciosDSLista\Lista\obj\Debug\Lista1.csproj.CoreCompileInputs.cache
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\ExerciciosDSLista\Lista\obj\Debug\Lista.exe
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\ExerciciosDSLista\Lista\obj\Debug\Lista.pdb
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\ExerciciosDSLista\Lista\bin\Debug\Lista.exe.config
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\ExerciciosDSLista\Lista\bin\Debug\Lista.exe
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\Lista\ExerciciosDSLista\Lista\bin\Debug\Lista.pdb
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\ListaDS1\Lista\obj\Debug\Lista1.csproj.AssemblyReference.cache
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\ListaDS1\Lista\obj\Debug\Lista1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\ListaDS1\Lista\obj\Debug\Lista1.csproj.CoreCompileInputs.cache
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\ListaDS1\Lista\obj\Debug\Lista.exe
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\ListaDS1\Lista\obj\Debug\Lista.pdb
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\ListaDS1\Lista\bin\Debug\Lista.exe.config
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\ListaDS1\Lista\bin\Debug\Lista.exe
+C:\Users\tc.licsilva\OneDrive - Padtec\Documentos\ETEC\Semestre2\DS\Lista\ListaDS1\Lista\bin\Debug\Lista.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0kci3qLwGKlFlKT5tfQYqmIC+TOHfDjR3A4jbHxpV+TETc6wj5VyEgO/NuBLrd5oa8h4xfy+80GN/JEGcg4Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tc.licsilva\\OneDrive - Padtec\\Documentos\\ETEC\\Semestre2\\DS\\Lista2\\Lista3\\Lista3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tc.licsilva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\tc.licsilva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tc.licsilva\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tc.licsilva\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

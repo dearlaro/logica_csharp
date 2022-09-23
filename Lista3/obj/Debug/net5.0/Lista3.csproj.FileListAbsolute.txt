@@ -1,0 +1,16 @@
+C:\Users\alunos\source\repos\Lista2\Lista3\bin\Debug\net5.0\Lista3.exe
+C:\Users\alunos\source\repos\Lista2\Lista3\bin\Debug\net5.0\Lista3.deps.json
+C:\Users\alunos\source\repos\Lista2\Lista3\bin\Debug\net5.0\Lista3.runtimeconfig.json
+C:\Users\alunos\source\repos\Lista2\Lista3\bin\Debug\net5.0\Lista3.runtimeconfig.dev.json
+C:\Users\alunos\source\repos\Lista2\Lista3\bin\Debug\net5.0\Lista3.dll
+C:\Users\alunos\source\repos\Lista2\Lista3\bin\Debug\net5.0\ref\Lista3.dll
+C:\Users\alunos\source\repos\Lista2\Lista3\bin\Debug\net5.0\Lista3.pdb
+C:\Users\alunos\source\repos\Lista2\Lista3\obj\Debug\net5.0\Lista3.csproj.AssemblyReference.cache
+C:\Users\alunos\source\repos\Lista2\Lista3\obj\Debug\net5.0\Lista3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\source\repos\Lista2\Lista3\obj\Debug\net5.0\Lista3.AssemblyInfoInputs.cache
+C:\Users\alunos\source\repos\Lista2\Lista3\obj\Debug\net5.0\Lista3.AssemblyInfo.cs
+C:\Users\alunos\source\repos\Lista2\Lista3\obj\Debug\net5.0\Lista3.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\Lista2\Lista3\obj\Debug\net5.0\Lista3.dll
+C:\Users\alunos\source\repos\Lista2\Lista3\obj\Debug\net5.0\ref\Lista3.dll
+C:\Users\alunos\source\repos\Lista2\Lista3\obj\Debug\net5.0\Lista3.pdb
+C:\Users\alunos\source\repos\Lista2\Lista3\obj\Debug\net5.0\Lista3.genruntimeconfig.cache
