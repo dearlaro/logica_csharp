@@ -1,1 +1,1 @@
-# Lista de exercícios de lógica em C#
+Alguns exercícios de lógica na linguagem C#.
